@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 baseurl: "/styleguide" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://vstyleguide.github.io/styleguide/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
