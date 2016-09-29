@@ -760,39 +760,39 @@ Meringue is the dessert made with sugar and egg whites. Merengue is a ballroom d
 *nonprofit*<br>
 Normally, you’d want to put a hyphen in this kind of compound noun but in this case, the hyphen is dropped according to A.P. Style.
 
-*OK*
+*OK*<br>
 Ok is not okay (nor is it O.K.), OK? (Our favorite way to write this is the latter.)
 
-*since, while*
+*since, while*<br>
 Since can relate to either time [e.g., I haven’t written a word since last Tuesday] or causation [e.g., since I'm a writer, I know how to use the spell check function], but "because" is preferred in the second case. While can denote either time [e.g., she was cheating on me all the while] or contrast [e.g., while I am not a good singer, I still like to do karaoke], but "although" is preferred in the second case.
 
-*start-ups*
+*start-ups*<br>
 Oftentimes, people drop the hyphen, but we’re following The New York Times’ lead with this one.
 
-such as, like
+*such as, like*<br>
 Avoid using like when indicating a list; use such as instead [e.g., there are many musical styles that annoy me, such as punk, pop-punk, and heavy metal].
 
-tail, tale
+*tail, tale*<br>
 A tail is the rear end of an animal, or a location not far behind. [e.g., the dog had a long tail] [e.g., the groupies were on Blake Whitman's tail all night long]. Tail can also be used as a verb to mean "to follow" [e.g., we told the driver to tail the blue sedan].
 
 A tale, always a noun, is a story, usually an imaginative narrative of an event [e.g. he had many tales about Woodstock, the greatest weekend of his life].
 
-that, which
+*that, which*<br>
 In American prose, that is correctly used to narrow a category or identify a particular item [e.g. I want to find the video that I saw the other day]. Which is used to add something about an item that has already been identified [e.g. I found the video, which, unfortunately, was not as good as I remembered.] Which can be used restrictively only when it follows a preposition [e.g. the car in which we were traveling]. Otherwise it is almost always preceded by a comma, parenthesis, or dash. The distinction between these words is seldom made in British English FYIIIIIII.
 
-time-lapse
+*time-lapse*<br>
 Some people write this as one word or as two words, but we’ve done a lot of research and the coolest kids write it as two words with a hyphen in between. So we do too.
 
-toward, towards
+*toward, towards*<br>
 Toward is the preferred form in American English; towards is the preferred form in British English. This is also true for other directional words [e.g. backward, downward, forward, upward, and afterward].
 
-twice-monthly, biweekly, bimonthly
+*twice-monthly, biweekly, bimonthly*<br>
 When referring to the schedule of something that occurs every other week, always use "twice-monthly." "Bimonthly" and "biweekly" are not to be used, as both have dual meanings that only make for confusion.
 
-who, whom
+*who, whom*<br>
 Who is used when someone is the subject of a finite verb [e.g., the guy who rents a room upstairs] [e.g. who is there?]. Whom is used when someone is the object of verb or preposition [e.g. whom do you wish to see?] [e.g. the guy to whom she rented the room has gone missing] [e.g., to whom can we attribute this amazing style guide?].
 
-you're, your
+*you're, your*<br>
 I can’t believe I’m actually explaining this one, but you're is a contraction of you are [e.g. you're always on time]. Your is the possessive form of you [e.g. your punctuality is an asset].
 
 
