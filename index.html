@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+<div class="content__post">
+    <!-- {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,7 +11,12 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
       </li>
+    {% endfor %} -->
+    {% for post in site.posts reversed %}
+        {% if post.title == "Welcome to The Vimeo Style Guide" %}
+                {{post.content }}
+        {% endif %}
     {% endfor %}
-  </ul>
+
 
 </div>
