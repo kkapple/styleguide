@@ -4,7 +4,7 @@ title:  "Welcome to The Vimeo Style Guide"
 date:   2016-09-28 17:13:08 -0400
 categories: intro
 ---
-# Welcome to the Vimeo Style Guide
+# Meet the Vimeo Style Guide
 
 Here you'll find editorial, product copy, and brand messaging guidelines for all those who wish to write or speak as the hallowed Vimeo. Be it for an email, landing page, or button, we've got rules (and helpful tips) for writing those words. 
 
