@@ -41,7 +41,7 @@
 
 .content__table {
     margin-top: 24px;
-    
+
     ul {
         padding: 0;
         margin: 0;
@@ -100,6 +100,12 @@
 
     a {
         text-decoration: none;
+        color: #657987;
+        transition: color 0.1s ease-in-out;
+
+        &:hover {
+            color: darken(#657987, 20%)
+        }
     }
 }
 
@@ -107,4 +113,8 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+
+    & + & {
+        margin-top: 8px;
+    }
 }
