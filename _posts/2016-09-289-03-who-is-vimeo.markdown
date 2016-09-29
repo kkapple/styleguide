@@ -1,0 +1,50 @@
+---
+layout: default
+title:  "What is the Vimeo Voice?"
+date:   2016-09-28 17:13:08 -0400
+categories: vimeo background
+---
+# What is the Vimeo Voice?
+
+## Tone & Personality
+
+The Vimeo Voice™ is, above all else, human. It’s friendly, smart, playful, informative and, whenever appropriate, absurdly humorous. Vimeo began as a haven for wonderfully creative weirdos, and while we’ve upgraded our haircut and wardrobe a little, at our unicorn-y core we’re still the every(wo)man, the champion of the independent video creator.
+
+Our Voice stems from our Brand Values. Vimeo is:
+
+1. High quality
+2. Innovative & creative
+3. Full of positive energy
+4. Made with our community in mind
+
+We strive to delight people with our quips, convey just the right amount of information at just the right time, and infuse everything we do and say with our mission to support people who are making, uploading, and watching high-quality videos on the Internet.
+
+<table class="content__table content_table--duo">
+  <tbody>
+    <tr>
+      <th align="center">Things to do</th>
+      <th align="center">Things to avoid</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+            <li><strong>Be clear.</strong> Witty though we strive to be, never bury the lede beneath extraneous humor. </li>
+            <li><strong>Be concise.</strong> Get to the point quickly, and be wary of overloading people and web pages with information. </li>
+            <li><strong>Be a human.</strong> Vimeo is built by creators for creators, and we want to make sure our non-corporate personality is present in everything we write.</li>
+            <li><strong>Be knowledgeable and specific, but also inclusive.</strong> Include current references that pertain to tech and film developments without alienating our global audience.</li>
+            <li><strong>Warp common expressions.</strong> Vimeo is smart. We know the English language well. But we also like to be playful. The cat’s really out of the baguette now. We also like puns. </li>
+            <li><strong>Think: context. </strong>Whether you’re providing someone with the necessary info or thinking about where this person is encountering your words, don’t forget that context is czar.</li>
+        </ul>
+      </td>
+      <td>
+          <ul>
+              <li><strong>Sounding like every other brand.</strong> We want to sound like friends, not a corporation. If you’ve seen 10 other emails with the same subject line, try something new instead. </li>
+              <li><strong>Words that sound cheap.</strong> We are a premium brand — the alternative to cat videos and in-video ads. As such, try to find more creative ways of communicating “discounts” and “exclusive savings.” Avoid “giveaways” and “deals.”</li>
+              <li><strong>Too much excitement.</strong> Keep the exclamation points to a minimum. Use them when you really mean them (or when you’re being extra sassy).</li>
+              <li><strong>Mean-spiritedness. </strong> Vimeo is a friend to all, and should never make a statement or poke fun at someone else’s expense (even if that someone is YouTube).</li>
+              <li><strong>Cutesy phraseology.</strong> Vimeo is for grownups. And badasses. (But don’t use the latter either.)</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>

@@ -29,6 +29,51 @@
     padding-top: 92px;
     padding-bottom: 40px;
     max-width: 500px;
+
+    > ol {
+        margin-bottom: 24px;
+
+        li + li {
+            margin-top: 8px;
+        }
+    }
+}
+
+.content__table {
+    margin-top: 24px;
+    
+    ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    li {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    td {
+        vertical-align: top;
+    }
+}
+
+.content_table--duo {
+    li + li {
+        margin-top: 15px;
+    }
+
+    td {
+        width: 40%;
+
+        &:first-of-type {
+            padding-right: 10px;
+        }
+
+        &:last-of-type {
+            padding-left: 10px;
+        }
+    }
 }
 
 .rail {
