@@ -1,0 +1,63 @@
+---
+layout: default
+title:  "Glossary"
+date:   2016-09-28 17:13:08 -0400
+categories: glossary
+---
+# Glossary
+
+**Buy/Buy all**: purchase option that allows viewers to stream or download an On Demand title for the amount of time specified by the video seller.
+
+**Channels, groups, albums, feed**: these terms refer to specific features on Vimeo, but are no longer capitalized. 
+
+**Creators**: people who upload videos to Vimeo.
+
+**Discover**
+
+**Follow**:
+
+**Library**: old term used to describe the place where your On Demand purchases are housed. This has since been replaced by “Purchases.”
+
+**Like**: when a Vimeo member clicks the heart icon on the video player, they “like” it and it will show up in the “likes” section of their profile, and it will be added to the like count for the video.
+
+**Members**: people who sign up for Vimeo Basic, Vimeo Plus, and Vimeo PRO are called members, not users. Therefore, we also prefer to call it a Plus / PRO membership, as opposed to a Plus / PRO account, although the terms can be used interchangeably.
+
+**Membership**: we use this term instead of “subscription”
+
+**On Demand collection**: a curated group of titles (either films or series) presented on a special landing page; ex: SXSW Film Festival or Vimeo Originals.
+
+**On Demand page**: to sell videos via On Demand, a seller must first create this landing page to house all of their stuff.
+
+**Recommendations**: videos or On Demand titles that have been chosen specifically for the viewer by Vimeo’s recommendation algorithms.
+
+**Recommendations**: after a person has watched over 50% of a Vimeo On Demand title that he or she has purchased, we send them an email to ask whether they’d recommend it to friends.
+
+**Rent/Rent all**: purchase option that allows viewers to stream an On Demand title for the amount of time specified by the video seller.
+
+**Subscription**: On Demand viewers may choose to “subscribe” to any given title, the result of which we may refer to as a subscription. (Note: not to be confused with “membership,” which represents Vimeo Plus, PRO, PRO Unlimited, and Business.)
+
+**Title**: videos that have been packaged into one purchasable entity on Vimeo On Demand; available for rent, buy, or subscription.
+
+**Trailer**: a video added to an On Demand title that is available to watch for free, and represents the title wherever it’s embedded across the web.
+
+**Updates**: On Demand sellers can send email messages about their title to people who have subscribed specifically to that title.
+
+**Videos, profile, likes, tags, friends, comments, private messages**: not Vimeo-specific and never capitalized, unless they’re used to start a sentence.
+
+**Viewers**: people who watch videos on Vimeo.
+
+**Vimeans**: a somewhat old-school term for members of the Vimeo community. Used primarily in blog posts.
+
+**Vimeo**: the name of our company. It’s an anagram of “movie” and it’s pronounced “Vim-E-oh” with a short “i” sound (like “rim”) in the first syllable.
+
+**Vimeo Business**: a membership type launched in the summer of 2016 designed to help video marketers upload and share videos, and track performance.
+
+**Vimeo Festival + Awards**: an old event Vimeo used to plan, produce, and host. If ever it returns, it is always expressed with a plus sign between Festival and Awards. Takes a plural construction, e.g., “The Vimeo Festival + Awards are back!”
+
+**Vimeo On Demand**: Vimeo’s self-service distribution platform that allows video creators to sell their films, series, and videos directly to their audience.
+
+**Vimeo Plus**: Plus is always initial capped
+
+**Vimeo PRO**: PRO is always fully capitalized
+
+**Watch Later**: logged-in Vimeo members can hit the watch icon on any video to save it to a private queue, which they can later access via the site or mobile app.
