@@ -12,7 +12,7 @@ Here you'll find editorial, product copy, and brand messaging guidelines for all
 
 To ensure that Vimeo sounds like Vimeo across every channel, platform, and produt, we've combined all our writerly rules and put them in one place. We hope you'll consult this guide, along with chatting with our friendly copywriters. This will help us keep Vimeo sounding like Vimeo, wherever someone encounters it.  
 
-The Vimeo Style Guide combines A.P., Chicago, and a dash of house style to bring you the perfect aromatic verbal blend you'll see within these sections. We also research and draw from smarter people's thoughts on accessibility, localization, content strategy, and localization. This is all to say that we've thought a lot about all the decisions laid out in this guide. But we welcome your feedback! Which brings us to...
+The Vimeo Style Guide combines A.P., Chicago, and a dash of house style to bring you the perfect verbal blend you'll see within these sections. We also draw from smarter people's thoughts on accessibility, localization, content strategy, and UX writing. This is all to say we've thought a lot about these decisions. But we welcome your feedback! Which brings us to...
 
 ## Can I contribute?
 
