@@ -137,7 +137,7 @@ E.g. and I.e. are followed by commas.
 
 Please note that the two terms are NOT interchangeable.
 
-###### ELLIPSES 
+###### ELLIPSES
 Use an ellipsis (…) to show that you have deleted one or more words when condensing quotes and texts. Be careful to avoid deletions that may distort the meaning of the quote or text. “The New York Times called our film … tolerable … and Time Out New York pronounced it … watchable.”
 
 An ellipsis also may be used to indicate a thought that the speaker or writer does not complete. "I would have put my pants back on, but..." Substitute a dash for this purpose if you are also using ellipses to indicate that words actually spoken or written have been deleted or condensed.
@@ -145,6 +145,40 @@ An ellipsis also may be used to indicate a thought that the speaker or writer do
 Please see the Chicago Manual of Style for full list of examples.
 
 To type an ellipsis, please follow AP Style: three periods with a space both before and after.
+
+###### ETHNIC PREFERENCE
+Do not mention ethnic identity unless it is relevant to what you are writing about. When interviewing a person or reporting on an event, always ask someone for his/her preferred ethnic identity.
+
+*African-American, black*<br>
+Either term is appropriate provided someone does not express a preference.
+
+*Native American/American Indian*<br>
+The two terms have the same meaning. Follow the individual’s preference, or use the specific national affiliation, such as Cherokee or Seminole.
+
+*Asian, Asian-American*<br>
+Asian refers to anyone from Asia; Asian-American refers specifically to those of Asian ancestry who are permanent U.S. residents or American citizens.
+
+*Hispanic, Latino/Latina/Chicano/Chicana*<br>
+Recent polls show that a majority of those whose ethnic origin is in a Spanish-speaking country prefer to be called Hispanic rather than Latino/a. But there is a strong sentiment among some that "Hispanic" is a reminder of Spain's not-always-enlightened colonial domination of Latin America. In general, either term is appropriate, but ask individuals if they have a preference. Chicano/a is sometimes used in a derogatory manner, but has also been embraced by some Hispanic/Latino activists. Do not use unless it is the individual’s preference. Most Hispanics/ Latinos say they’d rather be identified by a country-specific designation (Puerto Rican; Mexican-American; Salvadoran).
+
+*Mexican, Mexican-American* <br>
+Mexican refers to someone born in Mexico; Mexican-American to someone who is a permanent resident or citizen of the U.S.
+When combining another nationality with American, use a hyphen: German-American, African- American, Mexican-American. But no hyphen for Native American, Latin American, North American, South American.
+
+
+###### EXCLAMATION POINTS
+Please use sparingly unless part of quoted speech. Because we are an excitable bunch, there is a tendency to overuse exclamation points at Vimeo, so try to keep your written enthusiasm in check. Remember that the more you use exclamation points, the less effective any of those individual exclamation points will be.
+
+###### FOREIGN WORDS OR TERMS
+If a foreign word or phrase is not commonly used in English, put the first usage in italics. If you feel a significant number of readers will not understand the word, provide a translation: "The dancer was wearing a *huipile* — a bright-colored, woven top — with plain black tights."
+
+If the word is foreign but commonplace in English usage — "et cetera," "doppelganger," "enfant terrible" — it does not need to be italicized.
+
+Proper nouns in foreign languages do not need to be italicized. Example: "Have you seen this sweet vid about Christo and Jean-Claude wrapping the Reichstag?"
+
+Foreign book/movie/music/artwork titles are set in italics, followed by a parenthetical translation that is NOT italicized. Example: "Carlos Reygadas' *Stellet Licht* (Silent Light) is one of my favorite movies."
+
+
 
 [chicago-manual]: http://www.chicagomanualofstyle.org/home.html
 [merriam-webster]: http://www.merriam-webster.com/
