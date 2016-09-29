@@ -6,10 +6,21 @@ categories: intro
 ---
 # The Moral Compass
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mollis sapien quis mi eleifend, at porttitor velit volutpat. Sed urna nunc, efficitur nec tincidunt quis, bibendum ut arcu. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam nisi tortor, fringilla ut faucibus eu, pulvinar euismod tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis suscipit leo.
+You may have noticed: we the humans of Vimeo care a lot about our community members, and everything we build for them. We put our hearts and souls (and even our arms and legs and vertebrae...) into creating the best possible user experience. We also want to spread good vibes across the World Wide Webosphere. In everything we do, we ask ourselves: how will this help our creators and viewers? We also adhere to a core set of values, which act as our True North. 
 
-## Secondary Header
+# Our Values
 
-Curabitur sollicitudin, magna quis laoreet suscipit, erat purus rhoncus lectus, non vulputate dolor massa vitae nibh. Pellentesque vulputate interdum ante nec luctus. Nunc sed sem nec nisl imperdiet cursus. Integer vitae enim ultrices lorem sollicitudin gravida. Curabitur tellus mauris, bibendum a dolor quis, malesuada efficitur arcu. Mauris suscipit vel tellus ut pulvinar. Integer feugiat enim risus. Sed dignissim sem et sapien convallis, sit amet volutpat quam eleifend.
-
-Quisque fermentum elit at nisl sodales, quis pretium ante pharetra. Praesent vitae dui placerat, molestie ante vitae, suscipit quam. Donec iaculis varius consequat. Maecenas ultrices, massa vel ornare rhoncus, sapien lectus ullamcorper nulla, et placerat augue magna quis risus. Suspendisse interdum, nunc id mollis semper, ante purus fringilla lorem, at rutrum lorem quam eget mauris. Integer orci arcu, imperdiet et tristique ac, lacinia ut erat.
+**Community above all**  
+We’re fueled by an undying love for art, creativity, and above all else, our community of creators and viewers.
+ 
+**High quality, but scrappy**  
+We work as a team to build, adapt, and innovate ahead of the industry, without ever sacrificing quality.
+ 
+**Passionately diligent**  
+We work hard to find creative solutions and build compelling, best-in-class products that serve and delight our users.
+ 
+**Positive vibes**  
+We’re a nice, inclusive, and curious bunch sending only good energy into the world.
+ 
+**Dare to be different**  
+We take our work seriously, not ourselves, and aren’t afraid to keep Vimeo weird.
