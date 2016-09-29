@@ -76,6 +76,16 @@
     }
 }
 
+table:not(.content__table){
+    border: 1px solid;
+    border-collapse: collapse;
+
+    td {
+        border: 1px solid;
+        padding: 4px;
+    }
+}
+
 .rail {
     flex: 0 0 185px;
     margin-right: $content-gutter;
