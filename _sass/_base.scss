@@ -12,7 +12,7 @@ $background-color: #F9FAFB;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: #A2AFB8;
 $grey-color-dark:  #1A2E3B;
 
 // Width of the content area
@@ -48,6 +48,15 @@ h2 {
     margin-top: 37px;
 }
 
+h4 {
+    margin-top: 0;
+    margin-bottom: 7px;
+    color: $grey-color-light;
+    font-size: $small-font-size;
+    font-weight: 400;
+}
+
 p {
-    width: 86.4%;
+    width: 90%;
+    line-height: 1.5;
 }

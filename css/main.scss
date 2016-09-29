@@ -38,6 +38,7 @@
 
 .rail__header {
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .footer_wrapper {
@@ -46,4 +47,19 @@
     max-width: $content-width;
     width: 100%;
     font-size: $small-font-size;
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.nav__item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
