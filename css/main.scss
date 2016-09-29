@@ -59,3 +59,13 @@ body {
 .rail__header {
     text-align: center;
 }
+
+.footer_wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: $content-gutter;
+    max-width: $content-width;
+    width: 100%;
+}
