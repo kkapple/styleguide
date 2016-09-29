@@ -10,7 +10,7 @@ Here you'll find editorial, product copy, and brand messaging guidelines for all
 
 ## How do I use this thing?
 
-Consistency in communication, be it via design or copy, creates brand loyalty. Translation: people will love us if we pour love and consideration into everything we make, including the words we write. To ensure that Vimeo sounds like Vimeo across every channel, platform, and produt, we've combined all our writerly rules and put them in one place. So if you're writing a blog post, or attempting to repurpose copy from one state for another, we hope you'll consult this guide, along with chatting with our friendly copywriters. This will help us keep Vimeo sounding like Vimeo, wherever someone encounters it.  
+To ensure that Vimeo sounds like Vimeo across every channel, platform, and produt, we've combined all our writerly rules and put them in one place. We hope you'll consult this guide, along with chatting with our friendly copywriters. This will help us keep Vimeo sounding like Vimeo, wherever someone encounters it.  
 
 The Vimeo Style Guide combines A.P., Chicago, and a dash of house style to bring you the perfect aromatic verbal blend you'll see within these sections. We also research and draw from smarter people's thoughts on accessibility, localization, content strategy, and localization. This is all to say that we've thought a lot about all the decisions laid out in this guide. But we welcome your feedback! Which brings us to...
 
