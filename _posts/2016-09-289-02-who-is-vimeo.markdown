@@ -7,7 +7,6 @@ categories: vimeo background
 # Who is Vimeo?
 
 ## Lore
-yoyoyoyoyoy
 Vimeo is the home for high-quality videos and the people who love them. Vimeo’s mission is to empower and inspire people around the world to create, share, and discover videos. Vimeo is one of the world’s largest creative networks; it has over 45M registered members and reaches a global audience of more than 200M each month.
 
 Vimeo was founded in 2004 by a group of filmmakers who wanted to share their creative work and personal moments from their lives. As time went on, like-minded people discovered Vimeo and helped build a supportive community of individuals with a wide range of passions. Millions of people around the world come to Vimeo to watch and upload high-quality videos, and we’re growing bigger every day! We hope this fun and friendly environment fuels your own creativity and inspires you to contribute to Vimeo in the ways that mean the most to you.
