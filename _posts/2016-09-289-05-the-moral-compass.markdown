@@ -2,7 +2,6 @@
 layout: default
 title:  "Our Moral Compass"
 date:   2016-09-28 17:13:08 -0400
-categories: intro
 ---
 # Our Moral Compass
 

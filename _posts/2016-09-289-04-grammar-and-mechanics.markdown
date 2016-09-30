@@ -2,7 +2,6 @@
 layout: default
 title:  "Grammar & Usage"
 date:   2016-09-28 17:13:08 -0400
-categories: grammar mechanics
 ---
 # Grammar & Usage
 The Vimeo Manual of Style is a mongrel. It blends what the Chicago Manual of Style recommends with AP Style Guide stuff and adds a dash of “house style” that is particular to Vimeo. Our in-house style takes precedence over Chicago and A.P.
