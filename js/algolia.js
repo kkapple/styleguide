@@ -12,8 +12,8 @@ $(function(config) {
     helper.setQueryParameter('distinct', true);
     helper.on('result', onResult);
 
-    console.log(algolia);
-    console.log(helper);
+    // console.log(algolia);
+    // console.log(helper);
 
     // Input listening for queries
     var $searchInput = $('.js-algolia__input');
@@ -21,11 +21,11 @@ $(function(config) {
 
     // Content to hide/show when searching
     var $initialContent = $('.js-algolia__initial-content');
-    console.log($initialContent);
+    // console.log($initialContent);
     var $searchContent = $('.js-algolia__search-content');
-    console.log($searchContent);
+    // console.log($searchContent);
     var $searchContentResults = $searchContent.find('.algolia__results');
-    console.log($searchContentResults);
+    // console.log($searchContentResults);
     $searchContentResults.on('click', 'a', onLinkClick);
 
     // Rendering templates
@@ -48,7 +48,7 @@ $(function(config) {
 
     // Handle typing query
     function onQueryChange() {
-        console.log($(this).val());
+        // console.log($(this).val());
         lastQuery = $(this).val();
         if (lastQuery.length === 0) {
           hideResults();
