@@ -1,14 +1,16 @@
-{% include header.html %}
-<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search...">
-<h4>Table of Contents</h4>
-<nav>
-    <ul class="nav">
-        {% for post in site.posts reversed %}
-            {% if post.title != "Welcome to The Vimeo Style Guide" %}
-                <li class="nav__item">
-                    <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</nav>
+<div class="rail__content">
+    {% include header.html %}
+    <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search...">
+    <h4>Table of Contents</h4>
+    <nav>
+        <ul class="nav">
+            {% for post in site.posts reversed %}
+                {% if post.title != "Welcome to The Vimeo Style Guide" %}
+                    <li class="nav__item">
+                        <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</div>

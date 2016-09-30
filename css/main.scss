@@ -103,6 +103,10 @@ table:not(.content__table){
     margin-right: $content-gutter;
 }
 
+.rail__content {
+    position: fixed;
+}
+
 .rail__header {
     text-align: center;
     margin-top: 63px;
