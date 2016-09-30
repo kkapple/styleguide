@@ -2,7 +2,6 @@
 layout: default
 title:  "Welcome to The Vimeo Style Guide"
 date:   2016-09-28 17:13:08 -0400
-categories: intro
 ---
 # Meet the Vimeo Style Guide
 
