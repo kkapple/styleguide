@@ -21,6 +21,11 @@
     flex: 1 1 300px;
 }
 
+.content__pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
 .content__post {
     margin-top: -28px;
     padding-left: 72px;
