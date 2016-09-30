@@ -1,0 +1,34 @@
+---
+layout: default
+title:  "Support"
+date:   2016-09-28 17:13:08 -0400
+categories: support
+---
+# Support
+
+Our Community team
+
+## FAQ articles
+For every change or addition we make to our site, apps, and features, we update our Help Center to accurately reflect the new state of the Vimeosphere. When writing new FAQ articles, please follow these guidelines:
+
+1. **Start with the minimum number of questions**<br>
+Instead of trying to predict every possible question that a person might have, start with basic issues you foresee, then fill out the FAQ based on actual support data.
+
+2. **Write FAQ questions in the first person, and answers in the second person.**<br>
+In other words: “Question: Can I add information while the video is uploading? Answer: Yes, you can add a title, description, and tags…”
+
+3. **Follow our conventions for referring to pages, buttons, and other parts of the site.**
+   - Item three To learn more, check out [Vimeo Everywhere][vimeo-everywhere].
+   - Visit your video’s Settings page
+   - Click the Upload button
+   - Choose the Video File tab and click Replace This Video
+   - In the Advanced tab, scroll down to Player Logos and click on the box
+   - Read more about [linking your social network accounts to Vimeo][link-social-network].
+   - A few nomenclatural notes: We refer to the My Settings page as the Settings page.
+
+4. **When possible, include screenshots, diagrams, and other visual aids**<br>
+Add visuals to the body of FAQ entries to help the member understand what you’re referring to. [Note: We need to figure out a common visual style for things like arrows, and instructional copy on top of  screenshots.]
+
+
+[vimeo-everywhere]: https://vimeo.com/everywhere
+[link-social-network]: https://vimeo.com/everywhere

@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "Ads"
+date:   2016-09-28 17:13:08 -0400
+categories: ads
+---
+# Ads
+
+When creating posts for our official social channels, please make sure you’re writing and posting as the fun, friendly, informative, and funny Vimeo would. In other words...
+
+## Display
+TBD
+
+## Paid Social
+TBD
+
+## OOO
+TBD
