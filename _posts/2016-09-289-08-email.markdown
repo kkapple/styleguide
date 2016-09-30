@@ -1,0 +1,51 @@
+---
+layout: default
+title:  "Email"
+date:   2016-09-28 17:13:08 -0400
+categories: email
+---
+# Email
+
+Every brand and every brand’s mom send and receive emails. Why should other humans bother to care about ours? When writing emails that are coming from Vimeo, consider the elements in your inbox that make you choose to open or trash an incoming email. Write emails that sound as though they’re coming from a friend, without being overly casual. Try to share only the bare minimum of information; emails should be short and easily digestible and drive readers toward one central call to action. And as with all Vimeo communications, try to circumvent the reader’s expectations — use interesting turns-of-phrase in subject lines and headers and, when appropriate, weave in some humor.
+
+## From sender
+
+Whether marketing-related or transactional, our emails appear as though they’re coming from Vimeo.
+
+## Reply to
+
+When emails requiring a specific action or communicating something that went wrong are sent to our VIP members, we sometimes direct readers to reply to the email to reach our support team.
+
+## Subject line
+
+Although we’re constantly testing our subject line tactics, we generally keep them short and to the point. Transactional emails have subject lines that are clear and to-the-point. Marketing messages will sometimes take a more mysterious and intriguing approach.
+
+## Preview
+
+This line, which appears next to the sender in your inbox, is often pulled from the first line of the email. Sometimes, though, we write shorter or more concise versions that call out the key message in the email.
+
+## Header
+
+Most of our emails have an H1 that serves as either a greeting or a way to call out the most critical information/reason why we’re sending the email. Often, our H1s provide us with an opportunity to inject some Vimeo personality, but sometimes, especially for transactional emails, we want to be clear, above all else.
+
+**Ex**: <br>
+*Marketing survey email*:
+<br>Good: Your brain is great
+<br>Bad: Please fill out this survey
+
+Good: Hi Emily Getman,
+<br>Bad: Hi, Emily Getman!
+
+*Transactional On Demand email*: <br>
+Good: You made 1 sale in November 2015. Nice!
+<Br>Bad: It’s payment time!
+
+###### Body
+Emails should be short, informative, and skimmable, but they should also be friendly and engaging, too. Keep links to a minimum, and strive to drive eyes and clicks toward one central action.
+
+###### CTA 
+Copy in buttons should be short and sentence case (i.e., do not capitalize more than the first word unless it’s a proper noun).
+
+
+
+[random-link]: http://jekyllrb.com/docs/home
