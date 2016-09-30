@@ -9,7 +9,7 @@ $spacing-unit:     30px;
 
 $text-color:       #3A5161;
 $background-color: #F9FAFB;
-$brand-color:      #2a7ae2;
+$brand-color:      #00ADEF;
 
 $grey-color:       #828282;
 $grey-color-light: #A2AFB8;
@@ -28,6 +28,15 @@ body {
     background-image: url('../assets/svg/rainbowbar.svg');
     background-repeat: repeat-x;
     color: $text-color;
+}
+
+a {
+    text-decoration: none;
+    color: $brand-color;
+
+    &:hover {
+        color: #0088CC;
+    }
 }
 
 h1,
