@@ -1,0 +1,58 @@
+---
+layout: default
+title:  "Blog"
+date:   2016-09-28 17:13:08 -0400
+categories: blog
+---
+# Blog
+
+The Vimeo blog serves as our main conduit for sharing information and news with our community at large. If we’re doing our job correctly, the Vimeo blog should:
+
+## Educate
+Teach people how to make better videos, and also how they can make the most of Vimeo’s powerful tools and features for both creators and viewers.
+
+## Inform
+Serve as a place where Vimeo Staff can communicate directly to its members about new features and product updates, events, partnerships, and interact with members via comments.
+
+## Inspire
+Highlight the best of what’s being uploaded to Vimeo (via Curation), and encourage aspiring filmmakers and their audiences to keep making, watching, and supporting great videos, as we always have.
+
+## Entertain
+Act as a viewing destination for both Vimeo and Vimeo On Demand, one that can be seeded out to external publications and shared across social channels to drive additional awareness for Vimeo and the high-quality videos — whether for free or for purchase — that people bring here.
+
+## Say something new
+Contribute new, interesting, and helpful information of substance to the larger “blogosphere” — including broader commentary on the state of web video, policies, and global events — and put the Vimeo spin on any topic we choose to approach. We should never just say things simply for the sake of saying them (/SEO).
+
+## Reinforce our brand values
+Align and promote the Vimeo values; all content shared on the blog should be high-quality, innovative, full of positive energy, and made with our community in mind. Oh, and it shouldn’t sound like any other blog out there — we have a voice all our own.
+
+In all of our posts, whether they are written by the Messaging team or other staff members, our tone is friendly, playful when appropriate, and knowledgeable. All writers should adhere to the guidelines in the [Vimeo Voice][vimeo-voice] and [Grammar & usage][grammar-usage] sections.
+
+For most blog posts, we recommend that authors:  
+
+1. **Keep it short**<br>
+250-500 words unless you’re writing a huge update. And don’t worry about writing a suave introduction, just start in on the subject at hand.
+
+2. **Punctuate with pics and videos**<br>
+Words are cool, but pictures and video are cooler. They provide visual texture and illustrate what you’re writing about.
+
+3. **Remember: personality rules**<br>
+Make sure you know who your audience is, and how to speak to them. And don’t forget that very real, very human Vimeo flair!
+
+For Vimeo Video School lessons, try to:
+
+1. **Pretend the reader knows very little, almost nothing**<br>
+Unless you are writing an advanced lesson, assume that the audience doesn’t know much about the topic at hand. So give plenty of context, especially around WHY you’d want to use a particular piece of equipment or technique. You want your reader to feel smart, and you’ll do that by giving them enough information. They’ll ignore what they already know (or look at it as a refresher) and focus on the new skill.
+
+2. **Use photos and video early and often**<br>
+Sometimes you’ll try to describe something and your words don’t work as well as the picture you have in your head. In this case, you should try to find a photo or video to illustrate your point. It’s often easier for people to learn by watching than reading.
+
+3. **Keep your sentences and paragraphs short**<br>
+Looking at a long unbroken paragraph of text can be intimidating. Break up your paragraphs and use short, declarative sentences to clearly communicate your lesson.
+
+For more information about writing for the Vimeo blog, please see our extended [Blog Guidelines][extended-blog-guidelines].
+
+
+[vimeo-voice]: http://jekyllrb.com/docs/home
+[grammar-usage]: http://jekyllrb.com/docs/home
+[extended-blog-guidelines]: /
