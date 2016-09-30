@@ -19,11 +19,18 @@
 
 .content {
     flex: 1 1 300px;
+    background-color: $background-color;
+}
+
+.content__next {
+    text-align: right;
 }
 
 .content__pagination {
     display: flex;
     justify-content: space-between;
+    background-color: #ffffff;
+    padding-top: 20px;
 }
 
 .content__post {
@@ -33,7 +40,6 @@
     padding-top: 92px;
     padding-bottom: 40px;
     max-width: 500px;
-    background-color: $background-color;
 
     > ol {
         margin-bottom: 24px;
