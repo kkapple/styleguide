@@ -101,6 +101,7 @@ table:not(.content__table){
 .rail {
     flex: 0 0 185px;
     margin-right: $content-gutter;
+    min-height: 500px;
 }
 
 .rail__content {
