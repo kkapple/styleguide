@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Vimeo Style Guide
 email: malika@vimeo.com
-baseurl: "/styleguide" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vstyleguide.github.io/stylguide" # the base hostname & protocol for your site
 permalink: none
 
