@@ -28,3 +28,7 @@ gems:
 algolia:
   application_id: 'TIBGN5MNT6'
   index_name:     'styleguide_posts'
+  read_only_api_key:   '6764cc5440e80de995a389368d8257bb'
+  excluded_files:
+    - 404.html
+    - index.html
