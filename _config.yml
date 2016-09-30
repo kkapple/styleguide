@@ -23,3 +23,8 @@ permalink: none
 markdown: kramdown
 sass:
     sass_dir: _sass
+gems:
+  - algoliasearch-jekyll
+algolia:
+  application_id: 'TIBGN5MNT6'
+  index_name:     'styleguide_posts'
