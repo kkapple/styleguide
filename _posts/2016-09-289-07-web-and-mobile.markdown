@@ -2,6 +2,7 @@
 layout: default
 title:  "Web and Mobile"
 date:   2016-09-28 17:13:08 -0400
+order: 7
 ---
 # Web & Mobile
 

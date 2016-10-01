@@ -2,6 +2,7 @@
 layout: default
 title:  "The Vimeo Voice"
 date:   2016-09-28 17:13:08 -0400
+order: 3
 ---
 # The Vimeo Voice
 

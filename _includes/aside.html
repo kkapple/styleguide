@@ -4,7 +4,8 @@
     <h4>Table of Contents</h4>
     <nav>
         <ul class="nav">
-            {% for post in site.posts reversed %}
+            {% assign sorted_pages = (site.posts | sort: 'order') %}
+            {% for post in sorted_pages  %}
                 {% if post.title != "Welcome to The Vimeo Style Guide" %}
                     <li class="nav__item">
                         <a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>

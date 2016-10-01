@@ -2,12 +2,13 @@
 layout: default
 title:  "Glossary"
 date:   2016-09-28 17:13:08 -0400
+order: 6
 ---
 # Glossary
 
 **Buy/Buy all**: purchase option that allows viewers to stream or download an On Demand title for the amount of time specified by the video seller.
 
-**Channels, groups, albums, feed**: these terms refer to specific features on Vimeo, but are no longer capitalized. 
+**Channels, groups, albums, feed**: these terms refer to specific features on Vimeo, but are no longer capitalized.
 
 **Creators**: people who upload videos to Vimeo.
 

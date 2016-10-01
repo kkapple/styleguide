@@ -2,6 +2,7 @@
 layout: default
 title:  "Email"
 date:   2016-09-28 17:13:08 -0400
+order: 8
 ---
 # Email
 
@@ -42,7 +43,7 @@ Good: You made 1 sale in November 2015. Nice!
 ###### Body
 Emails should be short, informative, and skimmable, but they should also be friendly and engaging, too. Keep links to a minimum, and strive to drive eyes and clicks toward one central action.
 
-###### CTA 
+###### CTA
 Copy in buttons should be short and sentence case (i.e., do not capitalize more than the first word unless it’s a proper noun).
 
 
