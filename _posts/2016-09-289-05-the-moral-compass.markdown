@@ -9,17 +9,17 @@ You may have noticed: we the humans of Vimeo care a lot about our community memb
 
 ## Our Values
 
-**Community above all**  
+###### Community above all
 We’re fueled by an undying love for art, creativity, and above all else, our community of creators and viewers.
 
-**High quality, but scrappy**  
+###### High quality, but scrappy
 We work as a team to build, adapt, and innovate ahead of the industry, without ever sacrificing quality.
 
-**Passionately diligent**  
+###### Passionately diligent
 We work hard to find creative solutions and build compelling, best-in-class products that serve and delight our users.
 
-**Positive vibes**  
+###### Positive vibes
 We’re a nice, inclusive, and curious bunch sending only good energy into the world.
 
-**Dare to be different**  
+###### Dare to be different
 We take our work seriously, not ourselves, and aren’t afraid to keep Vimeo weird.
