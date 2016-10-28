@@ -42,8 +42,8 @@ Primary: [Continue with Facebook]
 ## Popovers
 <br> Popovers are like in-page modals. They are designed to introduce a new feature, call out the key benefits for users, and teach people how to use it. Popovers should be used in context on the Vimeo site. Ex: When we make changes to the review page, the popover should point to the "Review page" button on a user's video page.
 
-<br>Example: 
-> <br>**New ways to review**
+<br>**Ex:** 
+<br>**New ways to review**
 <br>Click anywhere to add a note
 <br>[Next]
 <br>Dismiss
