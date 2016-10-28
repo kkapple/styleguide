@@ -39,6 +39,14 @@ Primary: [Continue with Facebook]
 <br>Secondary: [Join with email]
 <br>Tertiary: Already have an account? Log in.
 
+## Popovers
+  * General - Each popover onsite should not only communicate that something is new, but should also relay the key benefit or benefits of that thing. A multi-step popover should be used to introduce multiple facets/benefits of a more complex feature.
+  * Title - Keep it short n’ sweet, ideally 2-3 words that capture key benefit. (max. 25 characters)
+  * Subtitle - Only include in a multi-step popover; use to get more granular and succinctly introduce a specific feature or aspect of a new feature. (max. 35 characters) 
+  * Description - Briefly explain why this thing is good, and how to use it. (max. 120 characters)
+  * CTA - The CTA may vary depending on the feature and action we’re hoping to incite. “Get started” is a good bet, or “Go to {profile}.” In a multi-step popover, “Next” may be appropriate, but the final step should direct the user to take a specific action. (Ideally 2 words; 3 words max.) 
+  * Dismiss - Every popover should have a button, text link, or “x” that allows the user to close the popover; the copy should be “Dismiss” or “Skip.”
+
 ## Tables
 While most copy on vimeo.com is sentence cased, labels within tables (like for stats, or On Demand promo codes) are title cased.
 
