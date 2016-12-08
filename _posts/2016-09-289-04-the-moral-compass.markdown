@@ -6,7 +6,7 @@ order: 4
 ---
 # Our Moral Compass
 
-You may have noticed: we the humans of Vimeo care a lot about our community members, and everything we build for them. We put our hearts and souls (and even our arms and legs and vertebrae...) into creating the best possible user experience. We also want to spread good vibes across the World Wide Webosphere. In everything we do, we ask ourselves: how will this help our creators and viewers? We also adhere to a core set of values, which act as our True North.lollll
+You may have noticed: we the humans of Vimeo care a lot about our community members, and everything we build for them. We put our hearts and souls (and even our arms and legs and vertebrae...) into creating the best possible user experience. We also want to spread good vibes across the World Wide Webosphere. In everything we do, we ask ourselves: how will this help our creators and viewers? We also adhere to a core set of values, which act as our True North.
 
 ## Our Values
 
