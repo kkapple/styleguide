@@ -1,5 +1,5 @@
 $(function () {
-    console.log("yo yo yo");
+    console.log("testing");
     var pathname = window.location.pathname;
 
     $linkList = $('.nav__item a');
