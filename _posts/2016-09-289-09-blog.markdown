@@ -2,7 +2,7 @@
 layout: default
 title:  "Blog"
 date:   2016-09-28 17:13:08 -0400
-order: 9
+categories: blog
 ---
 # Blog
 
@@ -15,10 +15,10 @@ Teach people how to make better videos, and also how they can make the most of V
 Serve as a place where Vimeo Staff can communicate directly to its members about new features and product updates, events, partnerships, and interact with members via comments.
 
 ## Inspire
-Highlight the best of what’s being uploaded to Vimeo (via Curation), and encourage aspiring filmmakers and their audiences to keep making, supporting, and watching great videos, as we always have.
+Highlight the best of what’s being uploaded to Vimeo (via Curation), and encourage aspiring filmmakers and their audiences to keep making, watching, and supporting great videos, as we always have.
 
 ## Entertain
-Act as a viewing destination, one that can be seeded out to external publications and shared across social channels to drive additional awareness for Vimeo and the high-quality videos that people bring here.
+Act as a viewing destination for both Vimeo and Vimeo On Demand, one that can be seeded out to external publications and shared across social channels to drive additional awareness for Vimeo and the high-quality videos — whether for free or for purchase — that people bring here.
 
 ## Say something new
 Contribute new, interesting, and helpful information of substance to the larger “blogosphere” — including broader commentary on the state of web video, policies, and global events — and put the Vimeo spin on any topic we choose to approach. We should never just say things simply for the sake of saying them (/SEO).
@@ -55,4 +55,4 @@ For more information about writing for the Vimeo blog, please see our extended [
 
 [vimeo-voice]: http://jekyllrb.com/docs/home
 [grammar-usage]: http://jekyllrb.com/docs/home
-[extended-blog-guidelines]: https://docs.google.com/document/d/1jGNUR1w61XzAzXclAwGJ2nRT-kuYwumNrq93cT7LWQY/edit#
+[extended-blog-guidelines]: /
