@@ -50,9 +50,8 @@ Sometimes you’ll try to describe something and your words don’t work as well
 3. **Keep your sentences and paragraphs short**<br>
 Looking at a long unbroken paragraph of text can be intimidating. Break up your paragraphs and use short, declarative sentences to clearly communicate your lesson.
 
-For more information about writing for the Vimeo blog, please see our extended [Blog Guidelines][extended-blog-guidelines].
+For more information about writing for the Vimeo blog, please see our extended.
 
 
 [vimeo-voice]: http://jekyllrb.com/docs/home
 [grammar-usage]: http://jekyllrb.com/docs/home
-[extended-blog-guidelines]: /
