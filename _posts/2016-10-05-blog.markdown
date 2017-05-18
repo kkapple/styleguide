@@ -55,4 +55,4 @@ For more information about writing for the Vimeo blog, please see our extended [
 
 [vimeo-voice]: http://jekyllrb.com/docs/home
 [grammar-usage]: http://jekyllrb.com/docs/home
-[extended-blog-guidelines]: /
+[extended-blog-guidelines]: https://docs.google.com/document/d/1jGNUR1w61XzAzXclAwGJ2nRT-kuYwumNrq93cT7LWQY/edit
