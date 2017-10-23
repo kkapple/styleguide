@@ -616,11 +616,11 @@ FYI the plural of “attorney general” is “attorneys general,” just like t
 dial up (verb)
 <br>dial-up (adj.) e-mail
 <br>homepage (always one word)
-<br>Internet (always capitalized cuz it’s a proper noun)
+<br>internet (lowercase that i, friend)
 <br>log in, log out (verb)
 <br>login, logout (noun)
 <br>multimedia (one word)
-<br>Net (short for Internet)
+<br>Net (short for internet)
 <br>online, offline
 <br>website (here we go against conventionally capitalized World Wide Web)
 <br>web page
@@ -632,11 +632,11 @@ FAQ — frequently asked question (plural FAQs)
 <br>GIF — an image format, from “graphic interchange format”
 <br>GUI — graphical user interface (plural GUIs)
 <br>HTML — hypertext markup language (the code used to create websites)
-<br>IP — Internet protocol
-<br>ISP — Internet service provider (e.g., Optimum Online, Comcast)
+<br>IP — internet protocol
+<br>ISP — internet service provider (e.g., Optimum Online, Comcast)
 <br>JPEG or JPG — A type of image compression, from “joint photographic experts group”
 <br>LAN — local area network
-<br>TCP/IP — transmission control protocol/Internet protocol
+<br>TCP/IP — transmission control protocol/internet protocol
 <br>TIFF — an image display format, from “tagged image file format”
 <br>URL — Uniform Resource Locator, aka website address
 <br>Wi-Fi – trade name for a popular wireless technology
