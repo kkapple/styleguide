@@ -17,7 +17,7 @@ Our Voice stems from our Brand Values. Vimeo is:
 3. Full of positive energy
 4. Made with our community in mind
 
-We strive to delight people with our quips, convey just the right amount of information at just the right time, and infuse everything we do and say with our mission to support people who are making, uploading, and watching high-quality videos on the Internet.
+We strive to delight people with our quips, convey just the right amount of information at just the right time, and infuse everything we do and say with our mission to support people who are making, uploading, and watching high-quality videos on the internet.
 
 <table class="content__table content_table--duo">
   <tbody>
